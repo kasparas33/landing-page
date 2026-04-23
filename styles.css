@@ -99,3 +99,24 @@ h2 {
 .card p {
     font-size: 18px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px;
+}
+
+blockquote p {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+cite {
+    font-weight: 1000;
+    text-align: end;
+}
+
+blockquote {
+    display: flex;
+    flex-direction: column;
+}
